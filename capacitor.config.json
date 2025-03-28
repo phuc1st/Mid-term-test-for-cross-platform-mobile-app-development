@@ -1,0 +1,10 @@
+{
+  "appId": "com.phuc.app",
+  "appName": "show-time-app",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

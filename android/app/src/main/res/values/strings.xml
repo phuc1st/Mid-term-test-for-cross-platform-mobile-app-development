@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">show-time-app</string>
+    <string name="title_activity_main">show-time-app</string>
+    <string name="package_name">com.phuc.app</string>
+    <string name="custom_url_scheme">com.phuc.app</string>
+</resources>
